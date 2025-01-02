@@ -54,7 +54,7 @@
                                         <rect key="frame" x="0.0" y="40.333333333333329" width="361" height="34"/>
                                         <subviews>
                                             <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="gih-G9-0Dj">
-                                                <rect key="frame" x="0.0" y="0.0" width="267" height="34"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="278.66666666666669" height="34"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="34.000000000000007" id="OIW-a1-Xcs"/>
                                                 </constraints>
@@ -62,9 +62,9 @@
                                                 <textInputTraits key="textInputTraits"/>
                                             </textField>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MHL-zp-vve">
-                                                <rect key="frame" x="286" y="0.0" width="75" height="34"/>
+                                                <rect key="frame" x="297.66666666666669" y="0.0" width="63.333333333333314" height="34"/>
                                                 <state key="normal" title="Button"/>
-                                                <buttonConfiguration key="configuration" style="plain" title="Button"/>
+                                                <buttonConfiguration key="configuration" style="plain" title="Send"/>
                                                 <connections>
                                                     <action selector="sendText" destination="BYZ-38-t0r" eventType="touchUpInside" id="Bas-vW-abr"/>
                                                 </connections>
