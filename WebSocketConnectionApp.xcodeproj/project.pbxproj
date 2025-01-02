@@ -1,0 +1,420 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2945049E2B99068D004B9993 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2945049D2B99068D004B9993 /* AppDelegate.swift */; };
+		294504A02B99068D004B9993 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2945049F2B99068D004B9993 /* SceneDelegate.swift */; };
+		294504A22B99068D004B9993 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 294504A12B99068D004B9993 /* ViewController.swift */; };
+		294504A52B99068D004B9993 /* WebSocket.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 294504A32B99068D004B9993 /* WebSocket.storyboard */; };
+		294504A72B99068F004B9993 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 294504A62B99068F004B9993 /* Assets.xcassets */; };
+		294504AA2B99068F004B9993 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 294504A82B99068F004B9993 /* LaunchScreen.storyboard */; };
+		299049092B9A1F5C001F9130 /* URLSessionWebSocketConnection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 299049082B9A1F5C001F9130 /* URLSessionWebSocketConnection.swift */; };
+		29FB05FC2BA12CAE00123526 /* WebSocketConnection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29FB05F42BA12CAE00123526 /* WebSocketConnection.swift */; };
+		29FB05FD2BA12CAE00123526 /* NWWebSocketConnectionFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29FB05F62BA12CAE00123526 /* NWWebSocketConnectionFactory.swift */; };
+		29FB05FE2BA12CAE00123526 /* NWWebSocketConnection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29FB05F72BA12CAE00123526 /* NWWebSocketConnection.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		2945049A2B99068D004B9993 /* WebSocketConnectionApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WebSocketConnectionApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2945049D2B99068D004B9993 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		2945049F2B99068D004B9993 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		294504A12B99068D004B9993 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		294504A42B99068D004B9993 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/WebSocket.storyboard; sourceTree = "<group>"; };
+		294504A62B99068F004B9993 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		294504A92B99068F004B9993 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		294504AB2B99068F004B9993 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		299049082B9A1F5C001F9130 /* URLSessionWebSocketConnection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLSessionWebSocketConnection.swift; sourceTree = "<group>"; };
+		29FB05F42BA12CAE00123526 /* WebSocketConnection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebSocketConnection.swift; sourceTree = "<group>"; };
+		29FB05F62BA12CAE00123526 /* NWWebSocketConnectionFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NWWebSocketConnectionFactory.swift; sourceTree = "<group>"; };
+		29FB05F72BA12CAE00123526 /* NWWebSocketConnection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NWWebSocketConnection.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		294504972B99068D004B9993 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		294504912B99068D004B9993 = {
+			isa = PBXGroup;
+			children = (
+				2945049C2B99068D004B9993 /* WebSocketConnectionApp */,
+				2945049B2B99068D004B9993 /* Products */,
+				29FB05E92BA12B0400123526 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		2945049B2B99068D004B9993 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2945049A2B99068D004B9993 /* WebSocketConnectionApp.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2945049C2B99068D004B9993 /* WebSocketConnectionApp */ = {
+			isa = PBXGroup;
+			children = (
+				29D1BECA2D26F4CA00B1DEF5 /* WebSocket */,
+				2945049D2B99068D004B9993 /* AppDelegate.swift */,
+				2945049F2B99068D004B9993 /* SceneDelegate.swift */,
+				294504A12B99068D004B9993 /* ViewController.swift */,
+				294504A32B99068D004B9993 /* WebSocket.storyboard */,
+				294504A62B99068F004B9993 /* Assets.xcassets */,
+				294504A82B99068F004B9993 /* LaunchScreen.storyboard */,
+				294504AB2B99068F004B9993 /* Info.plist */,
+			);
+			path = WebSocketConnectionApp;
+			sourceTree = "<group>";
+		};
+		29D1BECA2D26F4CA00B1DEF5 /* WebSocket */ = {
+			isa = PBXGroup;
+			children = (
+				29D1BECC2D273FC500B1DEF5 /* NWConnection */,
+				29D1BECB2D273FB300B1DEF5 /* URLSession */,
+				29FB05F42BA12CAE00123526 /* WebSocketConnection.swift */,
+			);
+			path = WebSocket;
+			sourceTree = "<group>";
+		};
+		29D1BECB2D273FB300B1DEF5 /* URLSession */ = {
+			isa = PBXGroup;
+			children = (
+				299049082B9A1F5C001F9130 /* URLSessionWebSocketConnection.swift */,
+			);
+			path = URLSession;
+			sourceTree = "<group>";
+		};
+		29D1BECC2D273FC500B1DEF5 /* NWConnection */ = {
+			isa = PBXGroup;
+			children = (
+				29FB05F62BA12CAE00123526 /* NWWebSocketConnectionFactory.swift */,
+				29FB05F72BA12CAE00123526 /* NWWebSocketConnection.swift */,
+			);
+			path = NWConnection;
+			sourceTree = "<group>";
+		};
+		29FB05E92BA12B0400123526 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		294504992B99068D004B9993 /* WebSocketConnectionApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 294504C42B990690004B9993 /* Build configuration list for PBXNativeTarget "WebSocketConnectionApp" */;
+			buildPhases = (
+				294504962B99068D004B9993 /* Sources */,
+				294504972B99068D004B9993 /* Frameworks */,
+				294504982B99068D004B9993 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = WebSocketConnectionApp;
+			packageProductDependencies = (
+			);
+			productName = WebSocketConnectionApp;
+			productReference = 2945049A2B99068D004B9993 /* WebSocketConnectionApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		294504922B99068D004B9993 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1520;
+				LastUpgradeCheck = 1520;
+				TargetAttributes = {
+					294504992B99068D004B9993 = {
+						CreatedOnToolsVersion = 15.2;
+					};
+				};
+			};
+			buildConfigurationList = 294504952B99068D004B9993 /* Build configuration list for PBXProject "WebSocketConnectionApp" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 294504912B99068D004B9993;
+			packageReferences = (
+			);
+			productRefGroup = 2945049B2B99068D004B9993 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				294504992B99068D004B9993 /* WebSocketConnectionApp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		294504982B99068D004B9993 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				294504AA2B99068F004B9993 /* LaunchScreen.storyboard in Resources */,
+				294504A72B99068F004B9993 /* Assets.xcassets in Resources */,
+				294504A52B99068D004B9993 /* WebSocket.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		294504962B99068D004B9993 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				299049092B9A1F5C001F9130 /* URLSessionWebSocketConnection.swift in Sources */,
+				29FB05FE2BA12CAE00123526 /* NWWebSocketConnection.swift in Sources */,
+				29FB05FD2BA12CAE00123526 /* NWWebSocketConnectionFactory.swift in Sources */,
+				29FB05FC2BA12CAE00123526 /* WebSocketConnection.swift in Sources */,
+				294504A22B99068D004B9993 /* ViewController.swift in Sources */,
+				2945049E2B99068D004B9993 /* AppDelegate.swift in Sources */,
+				294504A02B99068D004B9993 /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		294504A32B99068D004B9993 /* WebSocket.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				294504A42B99068D004B9993 /* Base */,
+			);
+			name = WebSocket.storyboard;
+			sourceTree = "<group>";
+		};
+		294504A82B99068F004B9993 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				294504A92B99068F004B9993 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		294504C22B990690004B9993 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		294504C32B990690004B9993 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		294504C52B990690004B9993 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = WebSocketConnectionApp/Info.plist;
+				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "Atlantis would use Bonjour Service to discover Proxyman app from your local network.";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.websocket.test;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		294504C62B990690004B9993 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = WebSocketConnectionApp/Info.plist;
+				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "Atlantis would use Bonjour Service to discover Proxyman app from your local network.";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.websocket.test;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		294504952B99068D004B9993 /* Build configuration list for PBXProject "WebSocketConnectionApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				294504C22B990690004B9993 /* Debug */,
+				294504C32B990690004B9993 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		294504C42B990690004B9993 /* Build configuration list for PBXNativeTarget "WebSocketConnectionApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				294504C52B990690004B9993 /* Debug */,
+				294504C62B990690004B9993 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 294504922B99068D004B9993 /* Project object */;
+}

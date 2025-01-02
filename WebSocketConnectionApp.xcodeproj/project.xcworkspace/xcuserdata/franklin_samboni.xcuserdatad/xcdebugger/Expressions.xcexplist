@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "NWWebSocketConnection.send(data:context:):NWWebSocketConnection.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.status">
+            </PersistentString>
+            <PersistentString
+               value = "self.connection?.state">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NWWebSocketConnection.disconnect():NWWebSocketConnection.swift">
+      </ContextState>
+      <ContextState
+         contextName = "NWWebSocketConnection.cancelConnection():NWWebSocketConnection.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.connection?.state">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NWWebSocketConnection.connect():NWWebSocketConnection.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "connection?.state">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

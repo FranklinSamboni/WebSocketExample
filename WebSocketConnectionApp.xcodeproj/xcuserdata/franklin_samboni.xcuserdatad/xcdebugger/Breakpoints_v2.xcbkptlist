@@ -1,0 +1,1892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2139B95B-FD53-44CB-93ED-C85CD3A56E9E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D747FE3-0BA6-424B-A4FD-86A009775BE0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/Library/NWWebSocket.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "213"
+            endingLineNumber = "213"
+            landmarkName = "send(string:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8D747FE3-0BA6-424B-A4FD-86A009775BE0 - 4fab2e36a3f579bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.NWWebSocket.send(string: Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/Library/NWWebSocket.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "213"
+                  endingLineNumber = "213"
+                  offsetFromSymbolStart = "233">
+               </Location>
+               <Location
+                  uuid = "8D747FE3-0BA6-424B-A4FD-86A009775BE0 - 4fab2e36a3f579bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.NWWebSocket.send(string: Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/Library/NWWebSocket.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "213"
+                  endingLineNumber = "213"
+                  offsetFromSymbolStart = "276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "090272C3-FA97-4580-86EB-E5EF9FFAD7FE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/Library/NWWebSocket.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "444"
+            endingLineNumber = "444"
+            landmarkName = "send(data:context:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "090272C3-FA97-4580-86EB-E5EF9FFAD7FE - 576123d4572f27ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Network.NWError&gt;) -&gt; () in WebSocketConnectionApp.NWWebSocket.send(data: Swift.Optional&lt;Foundation.Data&gt;, context: Network.NWConnection.ContentContext) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/Library/NWWebSocket.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "444"
+                  endingLineNumber = "444"
+                  offsetFromSymbolStart = "1096">
+               </Location>
+               <Location
+                  uuid = "090272C3-FA97-4580-86EB-E5EF9FFAD7FE - 576123d4572f27ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Network.NWError&gt;) -&gt; () in WebSocketConnectionApp.NWWebSocket.send(data: Swift.Optional&lt;Foundation.Data&gt;, context: Network.NWConnection.ContentContext) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/Library/NWWebSocket.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "444"
+                  endingLineNumber = "444"
+                  offsetFromSymbolStart = "1304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17B08177-543C-45FD-91C7-6DA6D3965524"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/Library/NWWebSocket.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "449"
+            endingLineNumber = "449"
+            landmarkName = "send(data:context:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "17B08177-543C-45FD-91C7-6DA6D3965524 - 576123d4572f2717"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Network.NWError&gt;) -&gt; () in WebSocketConnectionApp.NWWebSocket.send(data: Swift.Optional&lt;Foundation.Data&gt;, context: Network.NWConnection.ContentContext) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/Library/NWWebSocket.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "449"
+                  endingLineNumber = "449"
+                  offsetFromSymbolStart = "1314">
+               </Location>
+               <Location
+                  uuid = "17B08177-543C-45FD-91C7-6DA6D3965524 - 576123d4572f2717"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Network.NWError&gt;) -&gt; () in WebSocketConnectionApp.NWWebSocket.send(data: Swift.Optional&lt;Foundation.Data&gt;, context: Network.NWConnection.ContentContext) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/Library/NWWebSocket.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "449"
+                  endingLineNumber = "449"
+                  offsetFromSymbolStart = "1552">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5048984E-D0C5-4DFA-8265-B658219DE1FC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "send(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5048984E-D0C5-4DFA-8265-B658219DE1FC - 281110844aca1c0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.URLSessionWebSocketConnection.send(Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "5048984E-D0C5-4DFA-8265-B658219DE1FC - 93e62651566ca7b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.send(Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "5048984E-D0C5-4DFA-8265-B658219DE1FC - 281110844aca1cce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.URLSessionWebSocketConnection.send(Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "127">
+               </Location>
+               <Location
+                  uuid = "5048984E-D0C5-4DFA-8265-B658219DE1FC - 93e62651566ca772"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.send(Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "5048984E-D0C5-4DFA-8265-B658219DE1FC - 281110844aca1cce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.URLSessionWebSocketConnection.send(Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "5048984E-D0C5-4DFA-8265-B658219DE1FC - 93e62651566ca772"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.send(Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "5048984E-D0C5-4DFA-8265-B658219DE1FC - 281110844aca1cce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.URLSessionWebSocketConnection.send(Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "5048984E-D0C5-4DFA-8265-B658219DE1FC - 93e62651566ca793"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.send(Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "5048984E-D0C5-4DFA-8265-B658219DE1FC - 1cfe9d9b0ca8df0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.URLSessionWebSocketConnection.send(Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Backup/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "127">
+               </Location>
+               <Location
+                  uuid = "5048984E-D0C5-4DFA-8265-B658219DE1FC - a709ab4e100e64b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.send(Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Backup/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "5048984E-D0C5-4DFA-8265-B658219DE1FC - 3705784e083d34ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.URLSessionWebSocketConnection.send(Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Projects/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "5048984E-D0C5-4DFA-8265-B658219DE1FC - 8cf24e9b149b8f06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.send(Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Projects/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E319108-5ADD-4D7E-A2FE-15B14A2FBAA3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "send(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1E319108-5ADD-4D7E-A2FE-15B14A2FBAA3 - 93e62651566ca7d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.send(Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "1E319108-5ADD-4D7E-A2FE-15B14A2FBAA3 - 93e62651566ca7d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.send(Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "1E319108-5ADD-4D7E-A2FE-15B14A2FBAA3 - 93e62651566ca793"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.send(Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "1E319108-5ADD-4D7E-A2FE-15B14A2FBAA3 - 93e62651566ca793"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.send(Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "1E319108-5ADD-4D7E-A2FE-15B14A2FBAA3 - 93e62651566ca793"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.send(Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "1E319108-5ADD-4D7E-A2FE-15B14A2FBAA3 - 93e62651566ca793"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.send(Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "1E319108-5ADD-4D7E-A2FE-15B14A2FBAA3 - a709ab4e100e64d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.send(Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Backup/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "1E319108-5ADD-4D7E-A2FE-15B14A2FBAA3 - a709ab4e100e64d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.send(Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Backup/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "1E319108-5ADD-4D7E-A2FE-15B14A2FBAA3 - 8cf24e9b149b8f27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.send(Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Projects/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "1E319108-5ADD-4D7E-A2FE-15B14A2FBAA3 - 8cf24e9b149b8f27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.send(Swift.String) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Projects/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB4270A2-CA01-4B37-8E50-8F70332B4D13"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "send(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9061FC3F-CF87-4F54-8D0F-7ACD3C086F64"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "receiveMessage()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9061FC3F-CF87-4F54-8D0F-7ACD3C086F64 - 9de5a110e55e8bec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;__C.NSURLSessionWebSocketTask.Message, Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.receiveMessage() -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1444">
+               </Location>
+               <Location
+                  uuid = "9061FC3F-CF87-4F54-8D0F-7ACD3C086F64 - 9de5a110e55e8bec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;__C.NSURLSessionWebSocketTask.Message, Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.receiveMessage() -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1760">
+               </Location>
+               <Location
+                  uuid = "9061FC3F-CF87-4F54-8D0F-7ACD3C086F64 - 9de5a110e55e8bec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;__C.NSURLSessionWebSocketTask.Message, Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.receiveMessage() -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1580">
+               </Location>
+               <Location
+                  uuid = "9061FC3F-CF87-4F54-8D0F-7ACD3C086F64 - a90a2c0fa33c4aad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;__C.NSURLSessionWebSocketTask.Message, Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.receiveMessage() -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Backup/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1444">
+               </Location>
+               <Location
+                  uuid = "9061FC3F-CF87-4F54-8D0F-7ACD3C086F64 - 82f1c9daa7a9a400"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;__C.NSURLSessionWebSocketTask.Message, Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.receiveMessage() -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Projects/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1648">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F43EC81-786C-4129-A016-F30DF2CEBDE2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "receiveMessage()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8F43EC81-786C-4129-A016-F30DF2CEBDE2 - 81ce409fd862248d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.URLSessionWebSocketConnection.receiveMessage() -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "8F43EC81-786C-4129-A016-F30DF2CEBDE2 - 9de5a110e55e8d43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;__C.NSURLSessionWebSocketTask.Message, Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.receiveMessage() -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "520">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B289C326-6CB5-4E89-8962-AECD38740474"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "receiveMessage()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B289C326-6CB5-4E89-8962-AECD38740474 - 9de5a110e55e8bb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;__C.NSURLSessionWebSocketTask.Message, Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.receiveMessage() -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1564">
+               </Location>
+               <Location
+                  uuid = "B289C326-6CB5-4E89-8962-AECD38740474 - 9de5a110e55e8bb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;__C.NSURLSessionWebSocketTask.Message, Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.receiveMessage() -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1912">
+               </Location>
+               <Location
+                  uuid = "B289C326-6CB5-4E89-8962-AECD38740474 - 9de5a110e55e8bb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;__C.NSURLSessionWebSocketTask.Message, Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.receiveMessage() -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1712">
+               </Location>
+               <Location
+                  uuid = "B289C326-6CB5-4E89-8962-AECD38740474 - a90a2c0fa33c4a73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;__C.NSURLSessionWebSocketTask.Message, Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.receiveMessage() -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Backup/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1564">
+               </Location>
+               <Location
+                  uuid = "B289C326-6CB5-4E89-8962-AECD38740474 - 82f1c9daa7a9a3c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;__C.NSURLSessionWebSocketTask.Message, Swift.Error&gt;) -&gt; () in WebSocketConnectionApp.URLSessionWebSocketConnection.receiveMessage() -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Projects/WebSocketConnectionApp/WebSocketConnectionApp/URLSessionWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1800">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08FA8C18-6765-450B-BFAE-FA78C41E03C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/Library/NWWebSocket.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "192"
+            endingLineNumber = "192"
+            landmarkName = "connect()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4B11CEC-2DBE-4C9C-9A6A-875BE670F129"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/Library/NWWebSocket.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "484"
+            endingLineNumber = "484"
+            landmarkName = "tearDownConnection(error:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B4B11CEC-2DBE-4C9C-9A6A-875BE670F129 - 843f1cf07e1d9733"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.NWWebSocket.tearDownConnection(error: Swift.Optional&lt;Network.NWError&gt;) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/Library/NWWebSocket.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "484"
+                  endingLineNumber = "484"
+                  offsetFromSymbolStart = "645">
+               </Location>
+               <Location
+                  uuid = "B4B11CEC-2DBE-4C9C-9A6A-875BE670F129 - 843f1cf07e1d9733"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.NWWebSocket.tearDownConnection(error: Swift.Optional&lt;Network.NWError&gt;) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/Library/NWWebSocket.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "484"
+                  endingLineNumber = "484"
+                  offsetFromSymbolStart = "716">
+               </Location>
+               <Location
+                  uuid = "B4B11CEC-2DBE-4C9C-9A6A-875BE670F129 - 843f1cf07e1d9733"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.NWWebSocket.tearDownConnection(error: Swift.Optional&lt;Network.NWError&gt;) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/Library/NWWebSocket.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "484"
+                  endingLineNumber = "484"
+                  offsetFromSymbolStart = "648">
+               </Location>
+               <Location
+                  uuid = "B4B11CEC-2DBE-4C9C-9A6A-875BE670F129 - 11d6a4d898e0ad3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.NWWebSocket.tearDownConnection(error: Swift.Optional&lt;Network.NWError&gt;) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Backup/WebSocketConnectionApp/WebSocketConnectionApp/Library/NWWebSocket.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "484"
+                  endingLineNumber = "484"
+                  offsetFromSymbolStart = "645">
+               </Location>
+               <Location
+                  uuid = "B4B11CEC-2DBE-4C9C-9A6A-875BE670F129 - 2aecb680e4775a96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.NWWebSocket.tearDownConnection(error: Swift.Optional&lt;Network.NWError&gt;) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Projects/WebSocketConnectionApp/WebSocketConnectionApp/Library/NWWebSocket.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "484"
+                  endingLineNumber = "484"
+                  offsetFromSymbolStart = "660">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9EF282C8-5BE6-444A-8496-BB40394E28B1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/Library/NWWebSocket.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "415"
+            endingLineNumber = "415"
+            landmarkName = "receiveMessage(data:context:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9EF282C8-5BE6-444A-8496-BB40394E28B1 - a90b5544f4d1c0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.NWWebSocket.receiveMessage(data: Foundation.Data, context: Network.NWConnection.ContentContext) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/Library/NWWebSocket.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "415"
+                  endingLineNumber = "415"
+                  offsetFromSymbolStart = "1543">
+               </Location>
+               <Location
+                  uuid = "9EF282C8-5BE6-444A-8496-BB40394E28B1 - a90b5544f4d1c0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.NWWebSocket.receiveMessage(data: Foundation.Data, context: Network.NWConnection.ContentContext) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/Library/NWWebSocket.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "415"
+                  endingLineNumber = "415"
+                  offsetFromSymbolStart = "1944">
+               </Location>
+               <Location
+                  uuid = "9EF282C8-5BE6-444A-8496-BB40394E28B1 - a90b5544f4d1c0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.NWWebSocket.receiveMessage(data: Foundation.Data, context: Network.NWConnection.ContentContext) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/Library/NWWebSocket.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "415"
+                  endingLineNumber = "415"
+                  offsetFromSymbolStart = "1796">
+               </Location>
+               <Location
+                  uuid = "9EF282C8-5BE6-444A-8496-BB40394E28B1 - 9f790d7ca9b3d602"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.NWWebSocket.receiveMessage(data: Foundation.Data, context: Network.NWConnection.ContentContext) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Backup/WebSocketConnectionApp/WebSocketConnectionApp/Library/NWWebSocket.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "415"
+                  endingLineNumber = "415"
+                  offsetFromSymbolStart = "1543">
+               </Location>
+               <Location
+                  uuid = "9EF282C8-5BE6-444A-8496-BB40394E28B1 - a4431f24d527c755"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.NWWebSocket.receiveMessage(data: Foundation.Data, context: Network.NWConnection.ContentContext) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Projects/WebSocketConnectionApp/WebSocketConnectionApp/Library/NWWebSocket.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "415"
+                  endingLineNumber = "415"
+                  offsetFromSymbolStart = "1860">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DF61DBE-9B98-4C9B-BCDC-E29B744DA403"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/Library/NWWebSocket.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "292"
+            endingLineNumber = "292"
+            landmarkName = "disconnect(closeCode:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4DF61DBE-9B98-4C9B-BCDC-E29B744DA403 - c3babe37b9668de2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.NWWebSocket.disconnect(closeCode: Network.NWProtocolWebSocket.CloseCode) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/Library/NWWebSocket.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "292"
+                  endingLineNumber = "292"
+                  offsetFromSymbolStart = "637">
+               </Location>
+               <Location
+                  uuid = "4DF61DBE-9B98-4C9B-BCDC-E29B744DA403 - c3babe37b9668de2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.NWWebSocket.disconnect(closeCode: Network.NWProtocolWebSocket.CloseCode) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/Library/NWWebSocket.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "292"
+                  endingLineNumber = "292"
+                  offsetFromSymbolStart = "960">
+               </Location>
+               <Location
+                  uuid = "4DF61DBE-9B98-4C9B-BCDC-E29B744DA403 - c3babe37b9668de2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.NWWebSocket.disconnect(closeCode: Network.NWProtocolWebSocket.CloseCode) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/Library/NWWebSocket.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "292"
+                  endingLineNumber = "292"
+                  offsetFromSymbolStart = "912">
+               </Location>
+               <Location
+                  uuid = "4DF61DBE-9B98-4C9B-BCDC-E29B744DA403 - 5653061f5f9847ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.NWWebSocket.disconnect(closeCode: Network.NWProtocolWebSocket.CloseCode) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Backup/WebSocketConnectionApp/WebSocketConnectionApp/Library/NWWebSocket.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "292"
+                  endingLineNumber = "292"
+                  offsetFromSymbolStart = "637">
+               </Location>
+               <Location
+                  uuid = "4DF61DBE-9B98-4C9B-BCDC-E29B744DA403 - 6d691447230c7147"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.NWWebSocket.disconnect(closeCode: Network.NWProtocolWebSocket.CloseCode) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Projects/WebSocketConnectionApp/WebSocketConnectionApp/Library/NWWebSocket.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "292"
+                  endingLineNumber = "292"
+                  offsetFromSymbolStart = "716">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8FA01F2-5B7E-462B-913C-0D32E74B16A9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnectionFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "NWWebSocketConnectionFactory"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E8FA01F2-5B7E-462B-913C-0D32E74B16A9 - 891d31a4afacbdc9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.NWWebSocketConnectionFactory.deinit"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnectionFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  uuid = "E8FA01F2-5B7E-462B-913C-0D32E74B16A9 - bbaf0ac21a9424e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.NWWebSocketConnectionFactory.__deallocating_deinit"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnectionFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "E8FA01F2-5B7E-462B-913C-0D32E74B16A9 - 891d31a4afacbdc9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.NWWebSocketConnectionFactory.deinit"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnectionFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84EDA229-C413-4B95-B23E-E7BAC5297D81"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "247"
+            endingLineNumber = "247"
+            landmarkName = "send(data:context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D536FD20-337D-402D-B268-35FC3AFBBE47"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "stateUpdateHandler(state:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AB258D7-B350-4F86-A6ED-43209212E03A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "stateUpdateHandler(state:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6130535-2484-4590-82C9-4E13CE54B599"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "stateUpdateHandler(state:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E83FBD2A-0998-41DC-8DAC-72456333BEB7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "stateUpdateHandler(state:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B74B6AB-6F35-4FCC-A0FA-5D521944A7B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "stateUpdateHandler(state:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8B74B6AB-6F35-4FCC-A0FA-5D521944A7B2 - 935ff6d446877f69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.NWWebSocketConnection.stateUpdateHandler(state: Network.NWConnection.State) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "428">
+               </Location>
+               <Location
+                  uuid = "8B74B6AB-6F35-4FCC-A0FA-5D521944A7B2 - 935ff6d446877f69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebSocketConnectionApp.NWWebSocketConnection.stateUpdateHandler(state: Network.NWConnection.State) -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FEB194FA-1EB3-49D3-B1C0-86E325D82C64"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "send(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77E0E2B6-2511-4C32-976F-B139C715D1AF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "send(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA733331-506F-4BA5-83F1-3DF89045F229"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "246"
+            endingLineNumber = "246"
+            landmarkName = "send(data:context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4525ED4-84C0-42A9-985F-1B1F9CB1AC60"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "stateUpdateHandler(state:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19617AEF-469A-433A-9CC4-9ED55C9CCA97"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "stateUpdateHandler(state:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9174990-AD3A-44FB-8692-6893C6F464CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "closeConnection()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F053DD8A-1647-4510-96C9-7142C440568A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "disconnect()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5589B40F-D9BB-4533-A063-7C9077327402"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "225"
+            endingLineNumber = "225"
+            landmarkName = "handleReceivedMessage(data:context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C53D0191-D242-4DE7-89DB-7C038736FAD9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "heartbeat()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFFACBB9-D150-4E02-B43A-339AAAAD04BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "184"
+            endingLineNumber = "184"
+            landmarkName = "ping()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BFFACBB9-D150-4E02-B43A-339AAAAD04BC - 3e611801e2688c88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Network.NWError&gt;) -&gt; () in WebSocketConnectionApp.NWWebSocketConnection.ping() -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "BFFACBB9-D150-4E02-B43A-339AAAAD04BC - 3e611801e2688c88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Network.NWError&gt;) -&gt; () in WebSocketConnectionApp.NWWebSocketConnection.ping() -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "700">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9242CF32-B8DA-44A4-ACD4-47D43636A084"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
+            landmarkName = "ping()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "704D60A1-B631-4F51-865F-09A13D553B7E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "ping()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A21ABF22-A11F-4F5A-8EE7-BF7C20A706C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "185"
+            endingLineNumber = "185"
+            landmarkName = "ping()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "873CDFAA-EEDC-4927-837B-853ABE41A691"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "closeConnection()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E90ED559-AC25-4B63-8A61-787BDCBC00B3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "viabilityUpdateHandler(isViable:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E430CA99-11D5-4556-9F6D-B79E98506359"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "stateUpdateHandler(state:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91E5DD95-504B-4A75-AEBA-F255236EC925"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionAppTests/Infrastructure/Server/NWSwiftWebSocketServer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "start()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "91E5DD95-504B-4A75-AEBA-F255236EC925 - 3bb5694f78c23d84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Network.NWListener.State) -&gt; () in WebSocketConnectionAppTests.NWWebSocketServer.start() -&gt; ()"
+                  moduleName = "WebSocketConnectionAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionAppTests/Infrastructure/Server/NWSwiftWebSocketServer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "91E5DD95-504B-4A75-AEBA-F255236EC925 - 3bb5694f78c23d84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Network.NWListener.State) -&gt; () in WebSocketConnectionAppTests.NWWebSocketServer.start() -&gt; ()"
+                  moduleName = "WebSocketConnectionAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionAppTests/Infrastructure/Server/NWSwiftWebSocketServer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "54">
+               </Location>
+               <Location
+                  uuid = "91E5DD95-504B-4A75-AEBA-F255236EC925 - 59a03251a62e51ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Network.NWListener.State) -&gt; () in WebSocketConnectionAppTests.NWWebSocketServer.start() -&gt; ()"
+                  moduleName = "WebSocketConnectionAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Projects/WebSocketConnectionApp/WebSocketConnectionAppTests/Infrastructure/Server/NWSwiftWebSocketServer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E56C7FCD-1EBC-4CF3-9440-D2868028D484"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionAppTests/Infrastructure/Server/NWSwiftWebSocketServer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "start()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E56C7FCD-1EBC-4CF3-9440-D2868028D484 - 8681a60bd2f2be09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Network.NWConnection) -&gt; () in WebSocketConnectionAppTests.NWWebSocketServer.start() -&gt; ()"
+                  moduleName = "WebSocketConnectionAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionAppTests/Infrastructure/Server/NWSwiftWebSocketServer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "E56C7FCD-1EBC-4CF3-9440-D2868028D484 - 8681a60bd2f2be09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Network.NWConnection) -&gt; () in WebSocketConnectionAppTests.NWWebSocketServer.start() -&gt; ()"
+                  moduleName = "WebSocketConnectionAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionAppTests/Infrastructure/Server/NWSwiftWebSocketServer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "54">
+               </Location>
+               <Location
+                  uuid = "E56C7FCD-1EBC-4CF3-9440-D2868028D484 - e494fd150c1ed3bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Network.NWConnection) -&gt; () in WebSocketConnectionAppTests.NWWebSocketServer.start() -&gt; ()"
+                  moduleName = "WebSocketConnectionAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Projects/WebSocketConnectionApp/WebSocketConnectionAppTests/Infrastructure/Server/NWSwiftWebSocketServer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9795AA6C-08E8-4D5D-BA8C-0754BDF29EF0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionAppTests/Infrastructure/Server/NWSwiftWebSocketServer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "stateUpdateHandler(state:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0413D137-624C-4B16-82B4-CD6DE77F223C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionAppTests/Infrastructure/Server/NWSwiftWebSocketServer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "newConnectionHandler(connection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95F96302-AE0D-4CDB-8D8A-7239EADE8758"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "closeConnection()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "180A3068-C8C1-4C29-8426-5C17B7B298CE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "receiveMessage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74311B16-A2A2-4617-91CE-D48EC0B729F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "242"
+            endingLineNumber = "242"
+            landmarkName = "send(data:context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B7F2D97-DB65-4253-80C9-A53F2F0C4787"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "stateUpdateHandler(state:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74BD8336-B93A-4D23-9264-CB84887BAB54"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
+            landmarkName = "scheduleReconnection()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "74BD8336-B93A-4D23-9264-CB84887BAB54 - ef7ee87ec48da4c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in WebSocketConnectionApp.NWWebSocketConnection.scheduleReconnection() -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "74BD8336-B93A-4D23-9264-CB84887BAB54 - ef7ee87ec48da4e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in WebSocketConnectionApp.NWWebSocketConnection.scheduleReconnection() -&gt; ()"
+                  moduleName = "WebSocketConnectionApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/franklin_samboni/Documents/Sephora/WebSocketConnectionApp/WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "364">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2CF9E4E-D412-4898-AD09-CC256F39AD08"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "connect()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "765B9A5B-EF61-4A10-9ACC-B175E26E9D1E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/Infrastructure/NWWebSocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "connect()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30B229F9-5CE9-4CD7-BBA0-9A5F4BE6139F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/WebSocketLifeCycleReconnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "appDidBecomeActive()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9BEB606-CB07-4D94-B8A4-D0A2DCF1EA47"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/WebSocketConnection/WebSocketLifeCycleReconnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "appDidBecomeActive()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD868692-A48F-43BA-A861-A72A3B5B2AF2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebSocketConnectionApp/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "scene(_:willConnectTo:options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
